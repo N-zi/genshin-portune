@@ -11,6 +11,4 @@
 
 下载release里的资源包并解压到hoshino的`/res/img`目录下
 
-在`bot.py`里添加`genshin-portune`
-
-<delete>懂的都懂</delete>
+在`bot.py`里添加`genshin-portune`<del>懂的都懂</del>
